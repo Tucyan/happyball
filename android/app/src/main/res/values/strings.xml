@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Happy Ball</string>
+    <string name="title_activity_main">Happy Ball</string>
+    <string name="package_name">com.happyball.game</string>
+    <string name="custom_url_scheme">com.happyball.game</string>
+</resources>
